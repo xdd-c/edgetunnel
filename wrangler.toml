@@ -6,3 +6,6 @@ keep_vars = true
 [[kv_namespaces]]
 binding = "KV"
 id = "167395de6e5e48ac9714994af1c935d2"
+
+[vars]
+ADMIN = "Rollex123"
